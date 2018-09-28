@@ -1,0 +1,281 @@
+{
+  "basics": {
+    "name": "Juha Tauriainen",
+    "label": "Award Winning Web Professional 💎 Mentor 🎓",
+    "email": "juha@bin.fi",
+    "website": "facebook.com/juha.tauriainen",
+    "summary": "Web developer with 10+ years of experience and a growing passion to improve myself constantly.  Specialities: Mentoring, Functional JavaScript, Scrum, ES5/ES6, React, React Native, node.js, LESS/SASS, CSS3, HTML5, test automation, Coffeescript, Angular.js, Backbone.js, Bacon.js, Mocha, Jasmine, Protractor, MongoDB, MySQL, Redis, Memcached, nginx, Git, Subversion, PHP, Material Design, Bootstrap, Agile  https://github.com/JuhQ",
+    "location": {
+      "countryCode": "FI"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "juha_tauriainen",
+        "url": "https://twitter.com/juha_tauriainen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Houston Inc.",
+      "position": "Senior Consultant",
+      "startDate": "2015-06-01",
+      "summary": "Houston Inc. is a lean and agile consulting company that prides itself on delivering projects with superb quality.  Houston Inc. provides: * Skilled professionals for your demanding projects * Agile consulting and coaching from experienced experts * Outsourced projects * Agile courses and training"
+    },
+    {
+      "company": "University of Helsinki",
+      "position": "Course Instructor",
+      "startDate": "2018-01-01",
+      "summary": "Junior teacher assistant for Full Stack course, Full Stack project and database application course. Mentoring young programmers at Linkki science lab."
+    },
+    {
+      "company": "Barabra Oy",
+      "position": "Senior Web Developer",
+      "startDate": "2015-06-01",
+      "summary": "Barabra is a digital agency located in the heart of Helsinki. We create digital content and services ranging from digital campaigns and advertising to web services.   My brief stint in Barabra focused on leading the frontend development, mentoring junior developers to build beautiful and reliable frontends for customers, with an keen eye on code quality and performance, something which is a bit unusual for advertisement agencies.",
+      "endDate": "2015-06-01"
+    },
+    {
+      "company": "Frontendguy",
+      "position": "Freelance Web Developer",
+      "startDate": "2014-04-01",
+      "summary": "During 2014-2017 I did some freelance gigs, mainly building dashboards for internal use. Closed the company because I started studying computer science at University of Helsinki.",
+      "endDate": "2017-08-01"
+    },
+    {
+      "company": "AppGyver Inc",
+      "position": "Frontend Developer",
+      "startDate": "2014-04-01",
+      "summary": "AppGyver makes awesome products for rapid mobile application development.   Our products cover the whole life-cycle of mobile application development from prototyping to development, third party integrations and publishing.   Thousands of developers, startups and Fortune 100 companies use our products daily.  My role involved building custom apps for customers and making the building blocks for Composer 2. Components to help enterprise companies quickly build custom mobile apps for their need without the need for 3rd party vendor.",
+      "endDate": "2015-03-01"
+    },
+    {
+      "company": "Music Kickup",
+      "position": "Software Developer",
+      "startDate": "2014-03-01",
+      "summary": "The new way for artists to do business and sell music - while retaining all rights and royalties. Built on powerful analytics and label tools – offering the world’s first truly free and unlimited digital distribution service to all major digital music stores such as iTunes, Google Play, Spotify and Deezer.  My role focused on the frontend, building a tool to help the labels to maintain and publish music more easily.",
+      "endDate": "2014-04-01"
+    },
+    {
+      "company": "Smartly.io",
+      "position": "Software Developer",
+      "startDate": "2013-12-01",
+      "summary": "My role in Smartly.io was heavily focused on the frontend, building an performant and scalable Angular.js app which helped our customers to achieve maximal advertisement potential. I was #2 hire in Smartly.io and brought in some fundamental culture changes which are still in use today in the company, even though Smartly.io has grown exponentially in size.  The best way to automate Facebook & Instagram advertising. We're a badged Facebook & Instagram Marketing Partner with the Ad Technology specialty.  With Smartly.io marketers can quickly create, manage & optimize every aspect of a successful Facebook advertising campaign using tools like A/B testing, automated budget allocation, trigger rules etc. We also provide a slick realtime reporting interface & conversion tracking to attribute your campaign performance with a precision.",
+      "endDate": "2014-03-01"
+    },
+    {
+      "company": "SC5 Online Ltd",
+      "position": "Senior Developer",
+      "startDate": "2012-05-01",
+      "summary": "SC5 is the leading HTML5 production house in the world. SC5 develops true game-changing online and mobile services using the latest web technologies.",
+      "endDate": "2013-12-01"
+    },
+    {
+      "company": "DealDash",
+      "position": "Lead Developer",
+      "startDate": "2010-01-01",
+      "summary": "DealDash serves as a brand promotion channel and the most fun & exciting way to discover and win your favorite brand named goods!  DealDash serves more than 7 Million registered shoppers and has been recognized as the Ernst & Young Entrepreneur of the Year 2013.  I was in charge of technical implementations at DealDash for my time there. During my time, the customer base and business grew 10X. We kept the development lean and agile, pushing changes to the site multiple times each day, most of the features were heavily A/B tested. All decisions about new features were made based on the results of the A/B tests. I was #2 hire at DealDash",
+      "endDate": "2012-05-01"
+    },
+    {
+      "company": "Citypress Oy",
+      "position": "Web Developer",
+      "startDate": "2008-01-01",
+      "summary": "I joined Citypress Oy as the main developer for ii2.org, a community which has now been shut down and sold to kuvat.fi. My responsibilities included maintenance, development, helping out the community as well as brainstorming new features and money making features.",
+      "endDate": "2010-01-01"
+    },
+    {
+      "company": "Rautanaula Oy",
+      "position": "Co-founder",
+      "startDate": "2007-07-01",
+      "summary": "I was responsible for the technical foundation and implementations.",
+      "endDate": "2008-05-01"
+    },
+    {
+      "company": "munmedia",
+      "position": "Entrepreneur",
+      "startDate": "2006-12-01",
+      "summary": "Self employed, I maintained customer projects and some profitable personal projects.",
+      "endDate": "2011-01-01"
+    },
+    {
+      "company": "Nokia",
+      "position": "Operator",
+      "startDate": "2006-08-01",
+      "summary": "Assembling phones.",
+      "endDate": "2006-12-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Helsinki",
+      "studyType": "Computer Science - Bachelor of Science",
+      "startDate": "2017-01-01",
+      "endDate": "2020-01-01"
+    },
+    {
+      "institution": "Omnia",
+      "studyType": "Datanome",
+      "startDate": "2017-01-01",
+      "endDate": "2017-01-01"
+    },
+    {
+      "institution": "Amiedu",
+      "startDate": "2011-01-01",
+      "endDate": "2012-01-01"
+    },
+    {
+      "institution": "Mikkeli University of Applied Sciences",
+      "startDate": "2007-01-01",
+      "endDate": "2007-01-01"
+    },
+    {
+      "institution": "Kaarinan Lukio",
+      "startDate": "2001-01-01",
+      "endDate": "2004-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "HTML 5"
+    },
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "jQuery"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Web Development"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Nginx"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "Apache"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Web Applications"
+    },
+    {
+      "name": "AJAX"
+    },
+    {
+      "name": "Front-end"
+    },
+    {
+      "name": "JSON"
+    },
+    {
+      "name": "Facebook API"
+    },
+    {
+      "name": "LAMP"
+    },
+    {
+      "name": "Memcached"
+    },
+    {
+      "name": "Backbone.js"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "Agile Methodologies"
+    },
+    {
+      "name": "Open Source"
+    },
+    {
+      "name": "CoffeeScript"
+    },
+    {
+      "name": "User Experience"
+    },
+    {
+      "name": "SASS"
+    },
+    {
+      "name": "OOP"
+    },
+    {
+      "name": "Angular.js"
+    },
+    {
+      "name": "Scalability"
+    },
+    {
+      "name": "A/B testing"
+    },
+    {
+      "name": "LESS"
+    },
+    {
+      "name": "Lighttpd"
+    },
+    {
+      "name": "HAProxy"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "AngularJS"
+    },
+    {
+      "name": "Cascading Style Sheets (CSS)"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finnish",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "projects": [
+    {
+      "name": "UniCafe mobile app",
+      "startDate": "2017-05-01",
+      "summary": "",
+      "url": "",
+      "endDate": "2017-08-01"
+    },
+    {
+      "name": "Veikkaus Mobile Gambling",
+      "startDate": "2012-06-01",
+      "summary": "Mobile gaming web application that includes all games of the Finnish gaming company Veikkaus - one of the largest HTML5 mobile web apps in the world.",
+      "url": "http://m.veikkaus.fi",
+      "endDate": "2013-12-01"
+    }
+  ]
+}
