@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Juha Tauriainen",
-    "label": "Award Winning Web Professional 💎 Mentor 🎓",
+    "label": "Part-time Lecturer",
     "email": "juha@bin.fi",
-    "website": "facebook.com/juha.tauriainen",
-    "summary": "Web developer with 10+ years of experience and a growing passion to improve myself constantly.  Specialities: Mentoring, Functional JavaScript, Scrum, ES5/ES6, React, React Native, node.js, LESS/SASS, CSS3, HTML5, test automation, Coffeescript, Angular.js, Backbone.js, Bacon.js, Mocha, Jasmine, Protractor, MongoDB, MySQL, Redis, Memcached, nginx, Git, Subversion, PHP, Material Design, Bootstrap, Agile  https://github.com/JuhQ",
+    "website": "https://www.linkedin.com/in/juhatauriainen/",
+    "summary": "Web developer with 15+ years of experience, transitioning into a mentoring and teaching role. Mentoring people and helping them to grow and progress in their careers gives me a lot of satisfaction. Specialities: Mentoring, Functional JavaScript/TypeScript, Scrum, ES5/ES6+, React, React Native, node.js, LESS/SASS, CSS3, HTML5, test automation, Jest, Coffeescript, Angular.js, Backbone.js, Bacon.js, Mocha, Jasmine, Protractor, MongoDB, MySQL, Redis, Memcached, nginx, Git, Subversion, PHP, Material Design/Material UI, Bootstrap, Agile https://github.com/JuhQ",
     "location": {
       "countryCode": "FI"
     },
@@ -18,16 +18,31 @@
   },
   "work": [
     {
+      "company": "Metropolia University of Applied Sciences",
+      "position": "Part-time Lecturer",
+      "startDate": "2020-08-01",
+      "summary": "Teaching: Fall 2021 Orientation to JavaScript, Mediastreaming, Android Java Programming, Innovation Project"
+    },
+    {
+      "company": "CERN",
+      "position": "Technical Student",
+      "startDate": "2020-09-01",
+      "endDate": "2021-08-31",
+      "summary": "I built a mobile application (ADaMS Mobile) for access control at physical access gates at CERN. User scans a QR code to see if they have access to the said access point or not. The application will give the user the exact information needed to gain access. The purpose of the application is to speed up gaining access to various entry points at CERN. Tech stack: React, Material UI, Jest, NFC&QR scanning. 9/2020-1/2021 Beams department, 1/2021-9/2021 Engineering department"
+    },
+    {
       "company": "Houston Inc.",
       "position": "Senior Consultant",
       "startDate": "2015-06-01",
-      "summary": "Houston Inc. is a lean and agile consulting company that prides itself on delivering projects with superb quality.  Houston Inc. provides: * Skilled professionals for your demanding projects * Agile consulting and coaching from experienced experts * Outsourced projects * Agile courses and training"
+      "endDate": "2020-08-31",
+      "summary": "Customer projects: Veikkaus - 2015-2020; Multiple projects, e.g. Website frontends with various tools, React native mobile app. Telia - 2018; React component library and change agent for TDD and Pair Coding practices. Unicafe - 2017; React native mobile app. I co-founded Koodikummit mentoring program to help future talents achieve their goals. Grew the mentee count from 1 to 25, and the mentoring team from 2 to 10."
     },
     {
       "company": "University of Helsinki",
       "position": "Course Instructor",
       "startDate": "2018-01-01",
-      "summary": "Teacher assistant for Full Stack course, Full Stack project and database application course. Mentoring young programmers at Linkki science lab."
+      "endDate": "2020-08-31",
+      "summary": "I've helped hundreds of students from all walks of life and age groups, from our Linkki science club for kids to retired people learning new skills. Seeing how the sparkle changes in people's eyes as they learn something new is truly an inspirational and a deeply satisfying feeling. Teacher assistant for: Full Stack course, Full Stack project, Intermediate Studies Project: Database application.Mentoring young programmers at Linkki science lab."
     },
     {
       "company": "Barabra Oy",
@@ -259,7 +274,7 @@
     },
     {
       "language": "English",
-      "fluency": "Professional working proficiency"
+      "fluency": "Professional working proficiency (TOEFL: 91, 2019)"
     }
   ],
   "projects": [
