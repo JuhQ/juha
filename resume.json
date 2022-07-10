@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Juha Tauriainen",
-    "label": "Part-time Lecturer",
+    "label": "Senior Software Engineer & Part-time Lecturer",
     "email": "juha@bin.fi",
     "website": "https://www.linkedin.com/in/juhatauriainen/",
     "summary": "Web developer with 15+ years of experience, transitioning into a mentoring and teaching role. Mentoring people and helping them to grow and progress in their careers gives me a lot of satisfaction. Specialities: Mentoring, Functional JavaScript/TypeScript, Scrum, ES5/ES6+, React, React Native, node.js, LESS/SASS, CSS3, HTML5, test automation, Jest, Coffeescript, Angular.js, Backbone.js, Bacon.js, Mocha, Jasmine, Protractor, MongoDB, MySQL, Redis, Memcached, nginx, Git, Subversion, PHP, Material Design/Material UI, Bootstrap, Agile https://github.com/JuhQ",
@@ -17,6 +17,12 @@
     ]
   },
   "work": [
+    {
+      "company": "Microsoft",
+      "position": "Senior Software Engineer",
+      "startDate": "2022-06-01",
+      "summary": "PowerApps Mobile team"
+    },
     {
       "company": "Metropolia University of Applied Sciences",
       "position": "Part-time Lecturer",
