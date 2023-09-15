@@ -1,18 +1,29 @@
 {
   "basics": {
     "name": "Juha Tauriainen",
-    "label": "Senior Software Engineer & Part-time Lecturer",
+    "label": "a dude",
     "email": "juha@bin.fi",
-    "website": "https://www.linkedin.com/in/juhatauriainen/",
+    "website": "https://juhq.fi",
     "summary": "Web developer with 15+ years of experience, transitioning into a mentoring and teaching role. Mentoring people and helping them to grow and progress in their careers gives me a lot of satisfaction. Specialities: Mentoring, Functional JavaScript/TypeScript, Scrum, ES5/ES6+, React, React Native, node.js, LESS/SASS, CSS3, HTML5, test automation, Jest, Coffeescript, Angular.js, Backbone.js, Bacon.js, Mocha, Jasmine, Protractor, MongoDB, MySQL, Redis, Memcached, nginx, Git, Subversion, PHP, Material Design/Material UI, Bootstrap, Agile https://github.com/JuhQ",
     "location": {
-      "countryCode": "FI"
+      "countryCode": "FI",
+      "city": "Helsinki"
     },
     "profiles": [
       {
         "network": "Twitter",
         "username": "juha_tauriainen",
         "url": "https://twitter.com/juha_tauriainen"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "juhatauriainen",
+        "url": "https://www.linkedin.com/in/juhatauriainen/"
+      },
+      {
+        "network": "GitHub",
+        "username": "JuhQ",
+        "url": "https://github.com/JuhQ"
       }
     ]
   },
@@ -21,13 +32,15 @@
       "company": "Microsoft",
       "position": "Senior Software Engineer",
       "startDate": "2022-06-01",
+      "endDate": "2023-09-13",
       "summary": "PowerApps Mobile team"
     },
     {
       "company": "Metropolia University of Applied Sciences",
       "position": "Part-time Lecturer",
       "startDate": "2021-08-01",
-      "summary": "Teaching: Fall 2021 Orientation to JavaScript, Mediastreaming, Android Java Programming, Innovation Project. Spring 2022 Android Java Programming, Innovation Project"
+      "endDate": "2022-12-31",
+      "summary": "Teaching: Fall 2021 Orientation to JavaScript, Mediastreaming, Android Java Programming, Innovation Project. Spring 2022 Android Java Programming, Innovation Project. Fall 2022 Innovation Project."
     },
     {
       "company": "CERN",
@@ -54,8 +67,8 @@
       "company": "Barabra Oy",
       "position": "Senior Web Developer",
       "startDate": "2015-06-01",
-      "summary": "Barabra is a digital agency located in the heart of Helsinki. We create digital content and services ranging from digital campaigns and advertising to web services.   My brief stint in Barabra focused on leading the frontend development, mentoring junior developers to build beautiful and reliable frontends for customers, with an keen eye on code quality and performance, something which is a bit unusual for advertisement agencies.",
-      "endDate": "2015-06-01"
+      "endDate": "2015-06-30",
+      "summary": "Barabra is a digital agency located in the heart of Helsinki. We create digital content and services ranging from digital campaigns and advertising to web services.   My brief stint in Barabra focused on leading the frontend development, mentoring junior developers to build beautiful and reliable frontends for customers, with an keen eye on code quality and performance, something which is a bit unusual for advertisement agencies."
     },
     {
       "company": "Frontendguy",
@@ -131,9 +144,15 @@
   "education": [
     {
       "institution": "University of Helsinki",
+      "studyType": "Computer Science - Master of Science",
+      "startDate": "2021-01-01",
+      "endDate": "2023-06-27"
+    },
+    {
+      "institution": "University of Helsinki",
       "studyType": "Computer Science - Bachelor of Science",
-      "startDate": "2017-01-01",
-      "endDate": "2020-01-01"
+      "startDate": "2017-09-01",
+      "endDate": "2021-12-26"
     },
     {
       "institution": "Omnia",
@@ -158,120 +177,51 @@
     }
   ],
   "skills": [
-    {
-      "name": "JavaScript"
-    },
-    {
-      "name": "HTML 5"
-    },
-    {
-      "name": "Node.js"
-    },
-    {
-      "name": "jQuery"
-    },
-    {
-      "name": "PHP"
-    },
-    {
-      "name": "MySQL"
-    },
-    {
-      "name": "CSS"
-    },
-    {
-      "name": "Web Development"
-    },
-    {
-      "name": "HTML5"
-    },
-    {
-      "name": "Git"
-    },
-    {
-      "name": "Nginx"
-    },
-    {
-      "name": "MongoDB"
-    },
-    {
-      "name": "Apache"
-    },
-    {
-      "name": "Linux"
-    },
-    {
-      "name": "Web Applications"
-    },
-    {
-      "name": "AJAX"
-    },
-    {
-      "name": "Front-end"
-    },
-    {
-      "name": "JSON"
-    },
-    {
-      "name": "Facebook API"
-    },
-    {
-      "name": "LAMP"
-    },
-    {
-      "name": "Memcached"
-    },
-    {
-      "name": "Backbone.js"
-    },
-    {
-      "name": "CSS3"
-    },
-    {
-      "name": "Agile Methodologies"
-    },
-    {
-      "name": "Open Source"
-    },
-    {
-      "name": "CoffeeScript"
-    },
-    {
-      "name": "User Experience"
-    },
-    {
-      "name": "SASS"
-    },
-    {
-      "name": "OOP"
-    },
-    {
-      "name": "Angular.js"
-    },
-    {
-      "name": "Scalability"
-    },
-    {
-      "name": "A/B testing"
-    },
-    {
-      "name": "LESS"
-    },
-    {
-      "name": "Lighttpd"
-    },
-    {
-      "name": "HAProxy"
-    },
-    {
-      "name": "Redis"
-    },
-    {
-      "name": "AngularJS"
-    },
-    {
-      "name": "Cascading Style Sheets (CSS)"
-    }
+    { "name": "Mentoring" },
+    { "name": "Teaching" },
+    { "name": "Tutoring" },
+    { "name": "JavaScript" },
+    { "name": "TypeScript" },
+    { "name": "Software Consulting" },
+    { "name": "React" },
+    { "name": "React Native" },
+    { "name": "HTML 5" },
+    { "name": "Node.js" },
+    { "name": "jQuery" },
+    { "name": "PHP" },
+    { "name": "MySQL" },
+    { "name": "CSS" },
+    { "name": "Web Development" },
+    { "name": "HTML5" },
+    { "name": "Git" },
+    { "name": "Nginx" },
+    { "name": "MongoDB" },
+    { "name": "Apache" },
+    { "name": "Linux" },
+    { "name": "Web Applications" },
+    { "name": "AJAX" },
+    { "name": "Front-end" },
+    { "name": "JSON" },
+    { "name": "Facebook API" },
+    { "name": "LAMP" },
+    { "name": "Memcached" },
+    { "name": "Backbone.js" },
+    { "name": "CSS3" },
+    { "name": "Agile Methodologies" },
+    { "name": "Open Source" },
+    { "name": "CoffeeScript" },
+    { "name": "User Experience" },
+    { "name": "SASS" },
+    { "name": "OOP" },
+    { "name": "Angular.js" },
+    { "name": "Scalability" },
+    { "name": "A/B testing" },
+    { "name": "LESS" },
+    { "name": "Lighttpd" },
+    { "name": "HAProxy" },
+    { "name": "Redis" },
+    { "name": "AngularJS" },
+    { "name": "Cascading Style Sheets (CSS)" }
   ],
   "languages": [
     {
