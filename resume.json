@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Juha Tauriainen",
-    "label": "a dude",
+    "label": "Part-time Lecturer",
     "email": "juha@bin.fi",
     "website": "https://juhq.fi",
     "summary": "Web developer with 15+ years of experience, transitioning into a mentoring and teaching role. Mentoring people and helping them to grow and progress in their careers gives me a lot of satisfaction. Specialities: Mentoring, Functional JavaScript/TypeScript, Scrum, ES5/ES6+, React, React Native, node.js, LESS/SASS, CSS3, HTML5, test automation, Jest, Coffeescript, Angular.js, Backbone.js, Bacon.js, Mocha, Jasmine, Protractor, MongoDB, MySQL, Redis, Memcached, nginx, Git, Subversion, PHP, Material Design/Material UI, Bootstrap, Agile https://github.com/JuhQ",
@@ -28,6 +28,18 @@
     ]
   },
   "work": [
+    {
+      "company": "Metropolia University of Applied Sciences",
+      "position": "Part-time Lecturer",
+      "startDate": "2021-10-23",
+      "summary": "Teaching: Fall 2023 Mobileproject, Mediaproject."
+    },
+    {
+      "company": "Omnia, Espoon seudun koulutuskuntayhtymä",
+      "position": "Part-time Teacher",
+      "startDate": "2023-10-10",
+      "summary": "Teaching: Fall 2023 Web Software Development."
+    },
     {
       "company": "Microsoft",
       "position": "Senior Software Engineer",
@@ -68,7 +80,7 @@
       "position": "Senior Web Developer",
       "startDate": "2015-06-01",
       "endDate": "2015-06-30",
-      "summary": "Barabra is a digital agency located in the heart of Helsinki. We create digital content and services ranging from digital campaigns and advertising to web services.   My brief stint in Barabra focused on leading the frontend development, mentoring junior developers to build beautiful and reliable frontends for customers, with an keen eye on code quality and performance, something which is a bit unusual for advertisement agencies."
+      "summary": "My brief stint in Barabra focused on leading the frontend development, mentoring junior developers to build beautiful and reliable frontends for customers, with an keen eye on code quality and performance, something which is a bit unusual for advertisement agencies. Barabra is a digital agency located in the heart of Helsinki. We create digital content and services ranging from digital campaigns and advertising to web services."
     },
     {
       "company": "Frontendguy",
@@ -81,14 +93,14 @@
       "company": "AppGyver Inc",
       "position": "Frontend Developer",
       "startDate": "2014-04-01",
-      "summary": "AppGyver makes awesome products for rapid mobile application development.   Our products cover the whole life-cycle of mobile application development from prototyping to development, third party integrations and publishing.   Thousands of developers, startups and Fortune 100 companies use our products daily.  My role involved building custom apps for customers and making the building blocks for Composer 2. Components to help enterprise companies quickly build custom mobile apps for their need without the need for 3rd party vendor.",
+      "summary": "My role involved building custom apps for customers and making the building blocks for Composer 2. Components to help enterprise companies quickly build custom mobile apps for their need without the need for 3rd party vendor. AppGyver makes awesome products for rapid mobile application development.   Our products cover the whole life-cycle of mobile application development from prototyping to development, third party integrations and publishing.   Thousands of developers, startups and Fortune 100 companies use our products daily.",
       "endDate": "2015-03-01"
     },
     {
       "company": "Music Kickup",
       "position": "Software Developer",
       "startDate": "2014-03-01",
-      "summary": "The new way for artists to do business and sell music - while retaining all rights and royalties. Built on powerful analytics and label tools – offering the world’s first truly free and unlimited digital distribution service to all major digital music stores such as iTunes, Google Play, Spotify and Deezer.  My role focused on the frontend, building a tool to help the labels to maintain and publish music more easily.",
+      "summary": "My role focused on the frontend, building a tool to help the labels to maintain and publish music more easily. The new way for artists to do business and sell music - while retaining all rights and royalties. Built on powerful analytics and label tools – offering the world’s first truly free and unlimited digital distribution service to all major digital music stores such as iTunes, Google Play, Spotify and Deezer.",
       "endDate": "2014-04-01"
     },
     {
@@ -102,7 +114,7 @@
       "company": "SC5 Online Ltd",
       "position": "Senior Developer",
       "startDate": "2012-05-01",
-      "summary": "SC5 is the leading HTML5 production house in the world. SC5 develops true game-changing online and mobile services using the latest web technologies.",
+      "summary": "Software consulting. Client project: Veikkaus: 2012-2013, m.veikkaus.fi and veikkaus.fi frontend. A-lehdet: 2012, magazine e-reader. Internal projects.",
       "endDate": "2013-12-01"
     },
     {
