@@ -32,13 +32,13 @@
       "company": "Metropolia University of Applied Sciences",
       "position": "Part-time Lecturer",
       "startDate": "2023-10-23",
-      "summary": "Teaching: Fall 2023 Mobileproject, Mediaproject."
+      "summary": "Teaching: Fall 2023 Mobileproject, Mediaproject. Spring 2024: Innovation project, Server-side Scripting Frameworks, Web-sovelluskehitys, Web-projekti"
     },
     {
       "company": "Omnia, Espoon seudun koulutuskuntayhtymä",
       "position": "Part-time Teacher",
       "startDate": "2023-10-10",
-      "summary": "Teaching: Fall 2023 Web Software Development."
+      "summary": "Teaching: Fall 2023 Web Software Development. Spring 2024: Full Stack web development."
     },
     {
       "company": "Microsoft",
@@ -154,6 +154,17 @@
     }
   ],
   "education": [
+    {
+      "institution": "University of Jyväskylä",
+      "studyType": "Education Technology - Master of Science",
+      "startDate": "2024-01-01"
+    },
+    {
+      "institution": "Häme University of Applied Sciences",
+      "studyType": "Ammatillinen opettajankoulutus, pedagogiset opinnot",
+      "startDate": "2022-08-01",
+      "endDate": "2024-06-01"
+    },
     {
       "institution": "University of Helsinki",
       "studyType": "Computer Science - Master of Science",
