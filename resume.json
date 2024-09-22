@@ -4,7 +4,7 @@
     "label": "Part-time Lecturer",
     "email": "juha@bin.fi",
     "website": "https://juhq.fi",
-    "summary": "Web developer with 15+ years of experience, transitioning into a mentoring and teaching role. Mentoring people and helping them to grow and progress in their careers gives me a lot of satisfaction. Specialities: Mentoring, Functional JavaScript/TypeScript, Scrum, ES5/ES6+, React, React Native, node.js, LESS/SASS, CSS3, HTML5, test automation, Jest, Coffeescript, Angular.js, Backbone.js, Bacon.js, Mocha, Jasmine, Protractor, MongoDB, MySQL, Redis, Memcached, nginx, Git, Subversion, PHP, Material Design/Material UI, Bootstrap, Agile https://github.com/JuhQ",
+    "summary": "Lecturer with with 15+ years of web development experience. Teaching and mentoring people makes me happy. Specialities: Mentoring, Functional JavaScript/TypeScript, Scrum, ES5/ES6+, React, React Native, node.js, LESS/SASS, CSS3, HTML5, test automation, Jest, Coffeescript, Angular.js, Backbone.js, Bacon.js, Mocha, Jasmine, Protractor, MongoDB, MySQL, Redis, Memcached, nginx, Git, Subversion, PHP, Material Design/Material UI, Bootstrap, Agile https://github.com/JuhQ",
     "location": {
       "countryCode": "FI",
       "city": "Helsinki"
@@ -30,14 +30,22 @@
   "work": [
     {
       "company": "Metropolia University of Applied Sciences",
+      "position": "Senior Lecturer",
+      "startDate": "2024-06-01",
+      "summary": "Teaching: Fall 2024 Software 1, Software 2, Web-kehitysprojekti, Innovation Project"
+    },
+    {
+      "company": "Metropolia University of Applied Sciences",
       "position": "Part-time Lecturer",
       "startDate": "2023-10-23",
-      "summary": "Teaching: Fall 2023 Mobileproject, Mediaproject. Spring 2024: Innovation project, Server-side Scripting Frameworks, Web-sovelluskehitys, Web-projekti"
+      "endDate": "2024-06-01",
+      "summary": "Teaching: Fall 2023 Mobileproject, Mediaproject. Spring 2024: Innovation Project, Server-side Scripting Frameworks, Web-sovelluskehitys, Web-projekti"
     },
     {
       "company": "Omnia, Espoon seudun koulutuskuntayhtymä",
       "position": "Part-time Teacher",
       "startDate": "2023-10-10",
+      "endDate": "2024-06-15",
       "summary": "Teaching: Fall 2023 Web Software Development. Spring 2024: Full Stack web development."
     },
     {
@@ -156,30 +164,41 @@
   "education": [
     {
       "institution": "University of Jyväskylä",
-      "studyType": "Education Technology - Master of Science",
+      "field": "Education Technology",
+      "degree": "Master of Science",
       "startDate": "2024-01-01"
     },
     {
       "institution": "Häme University of Applied Sciences",
-      "studyType": "Ammatillinen opettajankoulutus, pedagogiset opinnot",
+      "field": "Ammatillinen opettajankoulutus, pedagogiset opinnot",
+      "degree": "Teacher Education",
       "startDate": "2022-08-01",
       "endDate": "2024-06-01"
     },
     {
       "institution": "University of Helsinki",
-      "studyType": "Computer Science - Master of Science",
+      "field": "Computer Science",
+      "degree": "Master of Science",
       "startDate": "2021-01-01",
       "endDate": "2023-06-27"
     },
     {
       "institution": "University of Helsinki",
-      "studyType": "Computer Science - Bachelor of Science",
+      "field": "Computer Science",
+      "degree": "Bachelor of Science",
       "startDate": "2017-09-01",
       "endDate": "2021-12-26"
     },
     {
+      "institution": "Colorado Mesa University",
+      "type": "Exchange Studies",
+      "studies": "Computer Science, Teaching, History",
+      "startDate": "2020-01-01",
+      "endDate": "2020-05-31"
+    },
+    {
       "institution": "Omnia",
-      "studyType": "Datanome",
+      "degree": "Datanome",
       "startDate": "2017-01-01",
       "endDate": "2017-01-01"
     },
